@@ -36,3 +36,6 @@ The Pipeline was a simple step by step process of calling the functions then run
 ### 3. Suggest possible improvements on the Project 
 The formation of the pipeline was pretty streamlined to what I was supposed to do.  My approach to the draw_lines function however, I know can be improved.  This function was basically done at a standpoint of straight lines, and that's why I struggled with figuring out how to apply my own methods for the optional challenge. Applying my understanding of calculus to the draw_lines method ouputted poorly, and thus I stayed with this to submit the project. Despite that, I plan on coming back and changing the function that can work better on turns. I will also really dig deeper on figuring out how to identify the lines better with the shadows in the optional challenge.
 
+##### A little thank you to Jeremy Shannon
+I read Jeremy Shannon's medium blog and it helped with a starting path on how to approach the project
+
